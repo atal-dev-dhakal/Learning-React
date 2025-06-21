@@ -9,4 +9,6 @@
 
 ## Day 2 - Set up React App
 - React components (Function that returns React elements) and React elements (Objects that get created when we return jsx).
-- Set up Local React environment with Create React App and learnt how to use it. 
+- Set up Local React environment with Create React App and learnt how to use it.
+- Basics of working with files, connecting to one another, some changes needed in switching from React 17 to React 18 and working with directories.
+
