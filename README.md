@@ -12,3 +12,7 @@
 - Set up Local React environment with Create React App and learnt how to use it.
 - Basics of working with files, connecting to one another, some changes needed in switching from React 17 to React 18 and working with directories.
 
+## Day 3 - Figma
+- Created account from this gmail and played with tools around a little. Basic layout of current webpage designed.
+- 
+
