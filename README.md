@@ -15,7 +15,7 @@
 ## Day 3 - Figma
 - Created account from this gmail and played with tools around a little. Basic layout of current webpage designed.
 
-## Day 4 - 
+## Day 4,5,6,7 - Got busy with other stuffs. React became low in priority.
 
-## Day 5 - 
+## Day 8 - Restarting
 
