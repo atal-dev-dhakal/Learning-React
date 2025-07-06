@@ -19,4 +19,4 @@
 
 ## Day 16 - Restarting
 - Took a while to gather everything up again. Did a task too. Now ready to continue the learning.
-- Got back to the same youtube tutorial.
+- Got back to the same youtube tutorial. Create a new project too. All the learning will happen there.
