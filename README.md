@@ -18,7 +18,8 @@
 ## Day 4,5,6,7,8,9,10,11,12,13,14,15 - Got busy with other stuff. React became low in priority, especially because of research and interviews.
 
 ## Day 16 - Restarting
-- Took a while to gather everything up again. Did a task too. Now ready to continue the learning.
-- Got back to the same youtube tutorial. Create a new project too. All the learning will happen there.
+- Took a while to gather everything up again. Did a task too. Now ready to continue learning.
+- Got back to the same YouTube tutorial. Create a new project too. All the learning will happen there.
 
 ## Day 17 
+- index.html -> Only for root. | index.js -> Contains App component (renders this) and imports index.css. | App.js -> Contains other components.
