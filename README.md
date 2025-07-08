@@ -22,4 +22,7 @@
 - Got back to the same YouTube tutorial. Create a new project too. All the learning will happen there.
 
 ## Day 17 
-- index.html -> Only for root. | index.js -> Contains App component (renders this) and imports index.css (importing only here works. No need to import on other files that might use CSS). | App.js -> Contains other components. | index.css -> import the google fonts here. 
+- index.html -> Only for root. | index.js -> Contains App component (renders this) and imports index.css (importing only here works. No need to import on other files that might use CSS). | App.js -> Contains other components. | index.css -> import the google fonts here.
+
+## Day 18
+- 
