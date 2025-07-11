@@ -25,4 +25,9 @@
 - index.html -> Only for root. | index.js -> Contains App component (renders this) and imports index.css (importing only here works. No need to import on other files that might use CSS). | App.js -> Contains other components. | index.css -> import the google fonts here.
 
 ## Day 18
-- 
+- Set up Github Deskotop. Created two repositories for react project 1 (react facts) and project 2 (business card).
+- Worked on that project 2, completed it and published the repo.
+  
+## Day 19 
+- Created project 2 (airbnb replica) and worked on it.
+- Complete the project part. Used figma to see the design specifications and then coded.
