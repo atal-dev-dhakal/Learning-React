@@ -36,4 +36,7 @@
 - Started learning props. Worked on the tasks from the tutorial.
 
 ## Day 21
-- 
+- Destructuring props.
+
+## Day 22
+-
