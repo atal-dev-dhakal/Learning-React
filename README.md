@@ -39,4 +39,4 @@
 - Destructuring props.
 
 ## Day 22
--
+- Conditional rendering the props.
