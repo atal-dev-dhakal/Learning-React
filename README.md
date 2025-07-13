@@ -29,5 +29,11 @@
 - Worked on that project 2, completed it and published the repo.
   
 ## Day 19 
-- Created project 2 (airbnb replica) and worked on it.
+- Created project 3 (airbnb replica) and worked on it.
 - Complete the project part. Used figma to see the design specifications and then coded.
+
+## Day 20
+- Started learning props. Worked on the tasks from the tutorial.
+
+## Day 21
+- 
