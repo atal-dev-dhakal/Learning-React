@@ -40,3 +40,6 @@
 
 ## Day 22
 - Conditional rendering the props.
+
+## Day 23
+- Map method and shorthand for function.
