@@ -42,4 +42,7 @@
 - Conditional rendering the props.
 
 ## Day 23
-- Map method and shorthand for function.
+- Map method and shorthand for a function.
+
+## Day 24
+- Started UX course on Domestika.
