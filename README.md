@@ -46,3 +46,6 @@
 
 ## Day 24
 - Started UX course on Domestika.
+
+## Day 25
+- Continued the UX course on Domestika.
