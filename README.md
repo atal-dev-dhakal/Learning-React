@@ -48,4 +48,4 @@
 - Started UX course on Domestika.
 
 ## Day 25
-- Continued the UX course on Domestika.
+- Continued and completed the UX course on Domestika.
