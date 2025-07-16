@@ -49,3 +49,4 @@
 
 ## Day 25
 - Continued and completed the UX course on Domestika.
+- Continued learning about map method and higher-order functions in JS.
