@@ -53,3 +53,6 @@
 
 ## Day 26
 - More about functions in js.
+
+## Day 27
+- Learnt basics of Figma.
