@@ -56,3 +56,6 @@
 
 ## Day 27
 - Learnt basics of Figma.
+
+## Day 28 
+- Continued learning methods in JS: Map, Filter and Reduce.
