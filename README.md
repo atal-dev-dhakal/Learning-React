@@ -59,3 +59,6 @@
 
 ## Day 28 
 - Continued learning methods in JS: Map, Filter and Reduce.
+
+## Day 29
+- Made a duolingo replica on figma.
