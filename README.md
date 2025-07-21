@@ -62,3 +62,6 @@
 
 ## Day 29
 - Made a duolingo replica on figma.
+
+## Day 30
+- Continued react course.
