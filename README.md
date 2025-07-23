@@ -84,21 +84,5 @@
 |            descriptionText = {x.descriptionText}                   |                            |
 |            price = {x.price}                                       |                            |
 |            openSpots={x.openSpots}                                 |                            |
-|      />                                                            |                            |
-|    }                                                               |                            |
+|      />}                                                           |                            |
 |  </div>)                                                           |                            |
-
-  We can simply do:
-  return (
-    <div>
-      data.map((x)=>{
-      return <Card
-               {...x}
-               />}
-    </div>)
-
-
-|asdf|sadf|
-|----|----|
-|hellpeople i hljkva ljsdf | askdfjl hi elkj dals bye |
-  sadfsdf 
