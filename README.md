@@ -74,15 +74,15 @@
 | Instead of this                                                    | We can do this             |
 |--------------------------------------------------------------------|----------------------------|
 |  return (                                                          |  return (                  |
-|  <div >                                                             |    <div >                   |
+|  <div                                                              |    <div                    |
 |    data.map((x)=>{                                                 |      data.map((x)=>{       |
 |      <Card                                                         |      return <Card          |
 |            key= {x.id}                                             |             {...x}         |
 |            pic={x.pic}                                             |             />}            |
-|            rating ={x.rating}                                      |    </div >)                 |
+|            rating ={x.rating}                                      |    />)                     |
 |            country = {x.country}                                   |                            |
 |            descriptionText = {x.descriptionText}                   |                            |
 |            price = {x.price}                                       |                            |
 |            openSpots={x.openSpots}                                 |                            |
 |      />}                                                           |                            |
-|  </div >)                                                           |                            |
+|  />)                                                           |                                |
