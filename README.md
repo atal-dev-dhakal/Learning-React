@@ -73,7 +73,7 @@
 
 | Instead of this                                                    | We can do this             |
 |--------------------------------------------------------------------|----------------------------|
-|  return (                                                        . |  return (                  |
+|  return (                                                          |  return (                  |
 |  <div>                                                             |    <div>                   |
 |    data.map((x)=>{                                                 |      data.map((x)=>{       |
 |      <Card                                                         |      return <Card          |
@@ -97,3 +97,8 @@
                />}
     </div>)
 
+
+|asdf|sadf|
+|----|----|
+|hellpeople i hljkva ljsdf | askdfjl hi elkj dals bye |
+  sadfsdf 
