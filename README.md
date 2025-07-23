@@ -65,3 +65,6 @@
 
 ## Day 30
 - Continued react course.
+
+## Day 31
+- Learnt speread and rest operator in js.
