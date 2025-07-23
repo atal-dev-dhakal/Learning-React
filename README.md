@@ -68,3 +68,32 @@
 
 ## Day 31
 - Learnt speread and rest operator in js.
+- Very helpful tool to simplify the code. Now, instead of doing:
+
+
+| Instead of this                                                    | We can do this             |
+|--------------------------------------------------------------------|----------------------------|
+|  return (                                                          |  return (                  |
+|  <div>                                                             |    <div>                   |
+|    data.map((x)=>{                                                 |      data.map((x)=>{       |
+|      <Card                                                         |      return <Card          |
+|            key= {x.id}                                             |             {...x}         |
+|            pic={x.pic}                                             |             />}            |
+|            rating ={x.rating}                                      |    </div>)                 |
+|            country = {x.country}                                   |                            |
+|            descriptionText = {x.descriptionText}                   |                            |
+|            price = {x.price}                                       |                            |
+|            openSpots={x.openSpots}                                 |                            |
+|      />                                                            |                            |
+|    }                                                               |                            |
+|  </div>)                                                           |                            |
+
+  We can simply do:
+  return (
+    <div>
+      data.map((x)=>{
+      return <Card
+               {...x}
+               />}
+    </div>)
+
