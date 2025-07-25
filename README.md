@@ -86,3 +86,14 @@
 |            openSpots={x.openSpots}                                 |                            |
 |      />}                                                           |                            |
 |  />)                                                           |                                |
+
+
+## Day 32
+
+## Day 33
+
+Completed a 5 hour long course on typescript. Learnings:
+- TS is not a new language. It is development tool. When you have written still runs in 100% pure javascript.
+- 2 + "2" is allowed in JS but not in TS
+- TS is written with .ts file. Also as .tsx if you have jsx integrated in the code (react and next stuffs)
+- 
