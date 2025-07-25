@@ -97,3 +97,5 @@ Completed a 5 hour long course on typescript. Learnings:
 - 2 + "2" is allowed in JS but not in TS. Chances of making an error is less with TS compared to JS.
 - TS is written with .ts file. Also as .tsx if you have jsx integrated in the code (react and next stuffs)
 - Installed and set up typescript. Basically, write tsc filename.ts in the terminal, and it will create a js replica of it or update it if it already exisits.
+- Went through the handbook: https://www.typescriptlang.org/docs/handbook/2/everyday-types.html
+- TS is smart. We don't need to overuse ts to define type to every other variable that we define. "Inference" exists.
