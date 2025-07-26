@@ -109,3 +109,4 @@ Continued the course on typescript
 
 - Alias type and its use case.
 - Optional, readonly, union, array, tupple and interfaces.
+- Private vs public
