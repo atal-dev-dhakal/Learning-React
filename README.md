@@ -108,3 +108,4 @@ Started a 5 hour long course on typescript. Learnings:
 Continued the course on typescript
 
 - Alias type and its use case.
+- Optional, readonly, union, array and tupple
