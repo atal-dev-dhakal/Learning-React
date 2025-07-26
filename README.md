@@ -90,6 +90,9 @@
 
 ## Day 32
 
+- Spent more time in figma.
+- Type script basics.
+
 ## Day 33
 
 Completed a 5 hour long course on typescript. Learnings:
