@@ -95,10 +95,16 @@
 
 ## Day 33
 
-Completed a 5 hour long course on typescript. Learnings:
+Started a 5 hour long course on typescript. Learnings:
 - TS is not a new language. It is development tool. When you have written still runs in 100% pure javascript. In fancy word, it is "wrapper" around JS.
 - 2 + "2" is allowed in JS but not in TS. Chances of making an error is less with TS compared to JS.
 - TS is written with .ts file. Also as .tsx if you have jsx integrated in the code (react and next stuffs)
 - Installed and set up typescript. Basically, write tsc filename.ts in the terminal, and it will create a js replica of it or update it if it already exisits.
 - Went through the handbook: https://www.typescriptlang.org/docs/handbook/2/everyday-types.html
 - TS is smart. We don't need to overuse ts to define type to every other variable that we define. "Inference" exists.
+
+## Day 34 
+
+Continued the course on typescript
+
+- Alias type and its use case.
