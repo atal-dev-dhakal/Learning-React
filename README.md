@@ -113,3 +113,7 @@ Continued the course on typescript
 - 
 
 ## Day 35
+
+
+## Day 36
+- Created new files in components for different screens.
