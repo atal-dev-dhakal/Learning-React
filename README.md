@@ -117,3 +117,6 @@ Continued the course on typescript
 
 ## Day 36
 - Created new files in components for different screens.
+
+## Day 37
+- Created 10 screens for the self-esteem micro module.
