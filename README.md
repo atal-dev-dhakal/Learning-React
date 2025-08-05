@@ -120,3 +120,6 @@ Continued the course on typescript
 
 ## Day 37
 - Created 10 screens for the self-esteem micro module.
+
+## Day 38
+- Worked on the food module. Struggled with cross screens compatibility.
