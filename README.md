@@ -123,3 +123,6 @@ Continued the course on typescript
 
 ## Day 38
 - Worked on the food module. Struggled with cross screens compatibility.
+
+## Day 39
+- Continued working on the food micro module.
