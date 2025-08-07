@@ -126,3 +126,6 @@ Continued the course on typescript
 
 ## Day 39
 - Continued working on the food micro module.
+
+## Day 40
+- Started working on the eating-disorder module.
