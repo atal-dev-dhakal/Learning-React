@@ -129,3 +129,6 @@ Continued the course on typescript
 
 ## Day 40
 - Started working on the eating-disorder module.
+
+## Day 42
+- Made improvements on the food micro module as suggest by my peer-mentor.
