@@ -135,3 +135,6 @@ Continued the course on typescript
 
 ## Day 43
 - Worked on the eating-disorder module.
+
+## Day 44 
+- Worked on the STI module.
