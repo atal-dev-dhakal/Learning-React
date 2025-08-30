@@ -160,5 +160,8 @@ Continued the course on typescript
 ## Day 52
 - Continued working on the STI module.
 
-## Day 52
+## Day 53
+- Continued working on the STI module.
+
+## Day 54
 - Continued working on the STI module.
