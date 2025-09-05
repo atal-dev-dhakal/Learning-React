@@ -180,3 +180,6 @@ Continued the course on typescript
 
 ## Day 58
 - Continued working on the STI module.
+
+## Day 59
+- Continued the work on the last module.
