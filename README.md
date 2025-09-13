@@ -198,3 +198,6 @@ Continued the course on typescript
 
 ## Day 64
 - Continued the work on the last module.
+
+## Day 65
+- Continued the work on the last module.
