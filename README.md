@@ -225,3 +225,6 @@ Continued the course on typescript
 
 ## Day 72
 - Continued the work on the last module.
+
+## Day 73
+- Continued the work on the last module.
